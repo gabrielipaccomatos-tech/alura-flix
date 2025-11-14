@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(45, 71, 105);
+    background-color: rgb(32, 70, 120);
     color:rgb(160, 197, 255);
     font-family: "Playfair Display", serif;
     margin: 0px;
@@ -19,7 +19,7 @@ p{
 }
 
 section{
-background-color: rgb(56, 52, 105);
+background-color: rgb(71, 67, 112);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
